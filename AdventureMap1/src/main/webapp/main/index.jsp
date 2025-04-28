@@ -301,7 +301,7 @@ button#submitQuiz:hover {
             
             <p>Which island is famous for its unique species like the giant tortoise?</p>
     <label><input type="radio" name="q20" value="0"> Madagascar</label><br>
-    <label><input type="radio" name="q20" value="10"> Galápagos Islands</label><br>
+    <label><input type="radio" name="q20" value="10"> Galï¿½pagos Islands</label><br>
     <label><input type="radio" name="q20" value="0"> Seychelles</label><br>
     <label><input type="radio" name="q20" value="0"> Maldives</label>
         </div>
@@ -401,7 +401,7 @@ button#submitQuiz:hover {
     <label><input type="radio" name="q16" value="10"> Ferdinand Magellan</label><br>
     <label><input type="radio" name="q16" value="0"> Vasco da Gama</label><br>
     <label><input type="radio" name="q16" value="0"> Amerigo Vespucci</label><br>
-    <label><input type="radio" name="q16" value="0"> Hernán Cortés</label>
+    <label><input type="radio" name="q16" value="0"> Hernï¿½n Cortï¿½s</label>
 </div>
 
 <!-- Quiz 9: Historical Sites -->
@@ -493,6 +493,6 @@ button#submitQuiz:hover {
     
 
     <!-- Google Maps API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwMYmuTIg8pxqdbblJRbBUp-QT9L9Gthg&map_ids=76139607a3c83f60&callback=initMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOU_API_KEY&map_ids=76139607a3c83f60&callback=initMap"></script>
 </body>
 </html>
